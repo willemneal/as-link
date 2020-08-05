@@ -4,6 +4,7 @@
     "packages/b"
   ],
   "options": {
-    "runtime": "none"
+    "runtime": "none",
+    "noExportMemory": true
   }
 }
