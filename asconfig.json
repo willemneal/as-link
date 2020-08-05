@@ -1,0 +1,9 @@
+{
+  "workspaces": [
+    "packages/a",
+    "packages/b"
+  ],
+  "options": {
+    "runtime": "none"
+  }
+}

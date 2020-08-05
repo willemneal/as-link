@@ -1,0 +1,12 @@
+{
+  "license": "MIT",
+  "author": "Willem Wyndham",
+  "scripts": {
+    "build": "asb --wat",
+    "test": "cargo run"
+  },
+  "devDependencies": {
+    "asbuild": "^0.0.6",
+    "assemblyscript": "^0.14.7"
+  }
+}
